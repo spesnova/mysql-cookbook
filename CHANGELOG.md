@@ -1,3 +1,7 @@
+## v3.0.2:
+
+* Add `default-character-set=utf8` to my.cnf template
+
 ## v3.0.0:
 
 **Note** This is a backwards incompatible version with previous
